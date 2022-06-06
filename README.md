@@ -45,5 +45,4 @@ Twitter : @Fame_Doze
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FameDoze2point0&theme=solarized-light) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=FameDoze2point0&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=solarized-light) |
 
-
-<br>
+PS : As I said before, I'm french and my english isn't perfect. So, if you see mistakes I will be happy to correct them ! 😃
