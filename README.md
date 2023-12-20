@@ -8,11 +8,11 @@
 
 <h2> About Me </h2>
 
-- 🔭 I am currently studying for a Bachelor's degree in Computer Science at the University of Picardie Jules Verne in France. In order to continue for a master's degree then a PhD.
+- 🔭 I am currently studying for a Master's degree in Computer Science at the University of Picardie Jules Verne in France. Operational Research is my field of interest, and I am focusing on the p-center problem and its variants. My goal for my PhD is to deepen my understanding of this field. I'm opened to study quantic computer science especially in algorithms conception and optimization for the combinatory problems and NP-problems.
   
-- 🌱 I’m currently learning Git, LateX, Graph Theory, AI (Deep learning) and even more
+- 🌱 I’m currently learning Operation Research, some mathematical methods for optimization.
   
-- 💬 Ask me about SQL, C
+- 💬 Ask me about C/C++
 
 - 🎯 University lecturer and Researcher
   
@@ -20,14 +20,6 @@
 <h2> My Skills </h2>
 
 <a href="https://github.com/FameDoze2point0?tab=repositories&q=&type=&language=c&sort="><img width='50px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></a> C Language
-
-
-
-<a href="https://github.com/FameDoze2point0?tab=repositories&q=&type=&language=css&sort="><img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a> CSS
-
-
-
-<a href="https://github.com/FameDoze2point0?tab=repositories&q=&type=&language=html&sort="><img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a> HTML
 
 
 Click on these logos to see my repositories !
